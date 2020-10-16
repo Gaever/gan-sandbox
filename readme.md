@@ -19,6 +19,8 @@ sudo add-apt-repository ppa:deadsnakes/ppa
 
 sudo apt-get -y install python3.8 python-setuptools python3-setuptools python-pip python3-pip
 pip install wheel torchvision tensorboardx jupyter matplotlib numpy
+
+mkdir ~/gan
 ```
 
 # Run
